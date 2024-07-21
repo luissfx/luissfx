@@ -17,8 +17,8 @@
 <br>
 <div>
     <p>
-        Building solutions in code form for <b>5 years</b>,
-        with a journey in <b>12</b> personal repositories and collaborations in
+        Building solutions in code form for <b>6 years</b>,
+        with a journey in <b>13</b> personal repositories and collaborations in
         <b>10</b> open-source projects, accumulating a total of
         <b>43 stars ★</b>.
     </p>
